@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../dramatic_architecture"
+		}
+	],
+	"settings": {
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact"
+		}
+	}
+}
