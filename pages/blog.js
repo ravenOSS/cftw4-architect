@@ -7,6 +7,7 @@ export default function Blog() {
 		<div className={styles.container}>
 			<Header />
 			<h1>This is the Blog Page</h1>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, quas.
 			<Footer />
 		</div>
 	)

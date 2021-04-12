@@ -1,8 +1,8 @@
-import Styles from './Social.module.css'
+import styles from './Social.module.css'
 
 export default function Social() {
 	return (
-		<div class='social'>
+		<div className={styles.social}>
 			<img src='../assets/iconmonstr-github-1.svg' alt='github link' />
 			<img src='../assets/iconmonstr-linkedin-4.svg' alt='linkedin link' />
 			<img src='../assets/iconmonstr-twitter-4.svg' alt='twitter link' />

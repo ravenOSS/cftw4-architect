@@ -10,13 +10,13 @@ export default function Nav() {
 				</Link>
 			</li>
 			<li>
-				<Link href='/profile'>
-					<a>Profile</a>
+				<Link href='/blog'>
+					<a>Blog</a>
 				</Link>
 			</li>
 			<li>
-				<Link href='/blog'>
-					<a>Blog</a>
+				<Link href='/profile'>
+					<a>Profile</a>
 				</Link>
 			</li>
 		</ul>
