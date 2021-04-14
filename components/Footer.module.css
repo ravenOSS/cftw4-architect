@@ -10,7 +10,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	/* grid-area: footer; */
+	grid-area: footer;
 	/* grid-template-columns: 1/5;
 	grid-template-rows: 1/2; */
 }

@@ -9,7 +9,7 @@
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	grid-area: hero;
+	grid-area: header;
 	/* grid-template-columns: 1/5;
 	grid-template-rows: 1/2; */
 }
